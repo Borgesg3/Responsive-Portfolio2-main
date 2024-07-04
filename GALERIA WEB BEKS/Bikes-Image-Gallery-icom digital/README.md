@@ -1,1 +1,0 @@
-# Bikes-Image-Gallery-using-flex
